@@ -1,0 +1,878 @@
+2022-07-04 13:45:47,136:INFO:Initializing load_model()
+2022-07-04 13:45:47,143:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 13:45:54,432:INFO:Initializing load_model()
+2022-07-04 13:45:54,433:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 13:45:54,487:INFO:Initializing predict_model()
+2022-07-04 13:45:54,487:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 13:45:54,490:INFO:Checking exceptions
+2022-07-04 13:45:54,490:INFO:Preloading libraries
+2022-07-04 13:46:00,209:INFO:Initializing load_model()
+2022-07-04 13:46:00,210:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 13:46:03,056:INFO:Initializing load_model()
+2022-07-04 13:46:03,057:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 13:46:03,104:INFO:Initializing predict_model()
+2022-07-04 13:46:03,105:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 13:46:03,109:INFO:Checking exceptions
+2022-07-04 13:46:03,110:INFO:Preloading libraries
+2022-07-04 13:46:07,401:INFO:Initializing load_model()
+2022-07-04 13:46:07,401:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 13:46:08,468:INFO:Initializing load_model()
+2022-07-04 13:46:08,468:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 13:46:08,510:INFO:Initializing predict_model()
+2022-07-04 13:46:08,511:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 13:46:08,514:INFO:Checking exceptions
+2022-07-04 13:46:08,515:INFO:Preloading libraries
+2022-07-04 13:46:15,033:INFO:Initializing load_model()
+2022-07-04 13:46:15,034:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 13:46:16,393:INFO:Initializing load_model()
+2022-07-04 13:46:16,393:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 13:46:16,429:INFO:Initializing predict_model()
+2022-07-04 13:46:16,430:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 13:46:16,432:INFO:Checking exceptions
+2022-07-04 13:46:16,432:INFO:Preloading libraries
+2022-07-04 14:07:45,037:INFO:Initializing load_model()
+2022-07-04 14:07:45,037:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:07:51,239:INFO:Initializing load_model()
+2022-07-04 14:07:51,240:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:07:58,533:INFO:Initializing load_model()
+2022-07-04 14:07:58,534:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:07:58,588:INFO:Initializing predict_model()
+2022-07-04 14:07:58,589:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:07:58,592:INFO:Checking exceptions
+2022-07-04 14:07:58,593:INFO:Preloading libraries
+2022-07-04 14:11:25,800:INFO:Initializing load_model()
+2022-07-04 14:11:25,800:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:11:31,854:INFO:Initializing load_model()
+2022-07-04 14:11:31,854:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:11:31,891:INFO:Initializing predict_model()
+2022-07-04 14:11:31,892:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:11:31,894:INFO:Checking exceptions
+2022-07-04 14:11:31,895:INFO:Preloading libraries
+2022-07-04 14:15:32,750:INFO:Initializing load_model()
+2022-07-04 14:15:32,750:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:15:36,533:INFO:Initializing load_model()
+2022-07-04 14:15:36,533:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:15:36,570:INFO:Initializing predict_model()
+2022-07-04 14:15:36,570:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:15:36,573:INFO:Checking exceptions
+2022-07-04 14:15:36,573:INFO:Preloading libraries
+2022-07-04 14:18:37,154:INFO:Initializing load_model()
+2022-07-04 14:18:37,155:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:18:40,618:INFO:Initializing load_model()
+2022-07-04 14:18:40,619:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:18:40,667:INFO:Initializing predict_model()
+2022-07-04 14:18:40,668:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:18:40,671:INFO:Checking exceptions
+2022-07-04 14:18:40,672:INFO:Preloading libraries
+2022-07-04 14:18:47,812:INFO:Initializing load_model()
+2022-07-04 14:18:47,812:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:18:49,592:INFO:Initializing load_model()
+2022-07-04 14:18:49,592:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:18:49,638:INFO:Initializing predict_model()
+2022-07-04 14:18:49,639:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:18:49,643:INFO:Checking exceptions
+2022-07-04 14:18:49,644:INFO:Preloading libraries
+2022-07-04 14:19:00,613:INFO:Initializing load_model()
+2022-07-04 14:19:00,613:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:19:01,639:INFO:Initializing load_model()
+2022-07-04 14:19:01,640:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:19:01,673:INFO:Initializing predict_model()
+2022-07-04 14:19:01,674:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:19:01,677:INFO:Checking exceptions
+2022-07-04 14:19:01,677:INFO:Preloading libraries
+2022-07-04 14:19:06,871:INFO:Initializing load_model()
+2022-07-04 14:19:06,872:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:19:08,134:INFO:Initializing load_model()
+2022-07-04 14:19:08,135:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:19:08,183:INFO:Initializing predict_model()
+2022-07-04 14:19:08,184:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:19:08,187:INFO:Checking exceptions
+2022-07-04 14:19:08,188:INFO:Preloading libraries
+2022-07-04 14:20:04,451:INFO:Initializing load_model()
+2022-07-04 14:20:04,452:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:20:07,509:INFO:Initializing load_model()
+2022-07-04 14:20:07,509:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:20:07,545:INFO:Initializing predict_model()
+2022-07-04 14:20:07,546:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:20:07,548:INFO:Checking exceptions
+2022-07-04 14:20:07,549:INFO:Preloading libraries
+2022-07-04 14:20:13,637:INFO:Initializing load_model()
+2022-07-04 14:20:13,638:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:20:15,318:INFO:Initializing load_model()
+2022-07-04 14:20:15,318:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:20:15,355:INFO:Initializing predict_model()
+2022-07-04 14:20:15,356:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:20:15,358:INFO:Checking exceptions
+2022-07-04 14:20:15,358:INFO:Preloading libraries
+2022-07-04 14:20:36,001:INFO:Initializing load_model()
+2022-07-04 14:20:36,002:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:20:39,568:INFO:Initializing load_model()
+2022-07-04 14:20:39,568:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:20:39,613:INFO:Initializing predict_model()
+2022-07-04 14:20:39,614:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:20:39,617:INFO:Checking exceptions
+2022-07-04 14:20:39,618:INFO:Preloading libraries
+2022-07-04 14:20:43,218:INFO:Initializing load_model()
+2022-07-04 14:20:43,218:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:20:44,986:INFO:Initializing load_model()
+2022-07-04 14:20:44,987:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:20:45,020:INFO:Initializing predict_model()
+2022-07-04 14:20:45,021:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:20:45,023:INFO:Checking exceptions
+2022-07-04 14:20:45,023:INFO:Preloading libraries
+2022-07-04 14:21:20,928:INFO:Initializing load_model()
+2022-07-04 14:21:20,928:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:21:24,020:INFO:Initializing load_model()
+2022-07-04 14:21:24,021:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:21:24,060:INFO:Initializing predict_model()
+2022-07-04 14:21:24,060:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:21:24,063:INFO:Checking exceptions
+2022-07-04 14:21:24,063:INFO:Preloading libraries
+2022-07-04 14:21:38,294:INFO:Initializing load_model()
+2022-07-04 14:21:38,295:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:21:39,388:INFO:Initializing load_model()
+2022-07-04 14:21:39,389:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:21:39,430:INFO:Initializing predict_model()
+2022-07-04 14:21:39,431:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:21:39,433:INFO:Checking exceptions
+2022-07-04 14:21:39,434:INFO:Preloading libraries
+2022-07-04 14:21:50,982:INFO:Initializing load_model()
+2022-07-04 14:21:50,983:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:21:55,531:INFO:Initializing load_model()
+2022-07-04 14:21:55,532:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:21:57,410:INFO:Initializing load_model()
+2022-07-04 14:21:57,411:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:22:00,925:INFO:Initializing load_model()
+2022-07-04 14:22:00,926:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:22:07,058:INFO:Initializing load_model()
+2022-07-04 14:22:07,058:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:22:09,901:INFO:Initializing load_model()
+2022-07-04 14:22:09,902:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:22:09,936:INFO:Initializing predict_model()
+2022-07-04 14:22:09,936:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:22:09,938:INFO:Checking exceptions
+2022-07-04 14:22:09,939:INFO:Preloading libraries
+2022-07-04 14:50:07,761:INFO:Initializing load_model()
+2022-07-04 14:50:07,762:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:13,731:INFO:Initializing load_model()
+2022-07-04 14:50:13,732:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:15,557:INFO:Initializing load_model()
+2022-07-04 14:50:15,558:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:15,593:INFO:Initializing predict_model()
+2022-07-04 14:50:15,594:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:50:15,597:INFO:Checking exceptions
+2022-07-04 14:50:15,597:INFO:Preloading libraries
+2022-07-04 14:50:31,846:INFO:Initializing load_model()
+2022-07-04 14:50:31,846:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:33,169:INFO:Initializing load_model()
+2022-07-04 14:50:33,169:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:33,205:INFO:Initializing predict_model()
+2022-07-04 14:50:33,205:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:50:33,207:INFO:Checking exceptions
+2022-07-04 14:50:33,208:INFO:Preloading libraries
+2022-07-04 14:50:43,247:INFO:Initializing load_model()
+2022-07-04 14:50:43,247:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:45,656:INFO:Initializing load_model()
+2022-07-04 14:50:45,657:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:45,705:INFO:Initializing predict_model()
+2022-07-04 14:50:45,706:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:50:45,707:INFO:Checking exceptions
+2022-07-04 14:50:45,708:INFO:Preloading libraries
+2022-07-04 14:50:55,022:INFO:Initializing load_model()
+2022-07-04 14:50:55,023:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:56,060:INFO:Initializing load_model()
+2022-07-04 14:50:56,061:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 14:50:56,112:INFO:Initializing predict_model()
+2022-07-04 14:50:56,113:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 14:50:56,115:INFO:Checking exceptions
+2022-07-04 14:50:56,116:INFO:Preloading libraries
+2022-07-04 16:57:04,308:INFO:Initializing load_model()
+2022-07-04 16:57:04,309:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 16:57:07,784:INFO:Initializing load_model()
+2022-07-04 16:57:07,785:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 16:57:07,820:INFO:Initializing predict_model()
+2022-07-04 16:57:07,821:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 16:57:07,823:INFO:Checking exceptions
+2022-07-04 16:57:07,824:INFO:Preloading libraries
+2022-07-04 17:04:43,560:INFO:Initializing load_model()
+2022-07-04 17:04:43,561:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 17:04:47,411:INFO:Initializing load_model()
+2022-07-04 17:04:47,411:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-04 17:04:47,455:INFO:Initializing predict_model()
+2022-07-04 17:04:47,456:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-04 17:04:47,458:INFO:Checking exceptions
+2022-07-04 17:04:47,458:INFO:Preloading libraries
+2022-07-05 11:16:48,530:INFO:Initializing load_model()
+2022-07-05 11:16:48,531:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 11:49:17,790:INFO:Initializing load_model()
+2022-07-05 11:49:17,791:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 11:49:17,846:INFO:Initializing predict_model()
+2022-07-05 11:49:17,846:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-05 11:49:17,848:INFO:Checking exceptions
+2022-07-05 11:49:17,849:INFO:Preloading libraries
+2022-07-05 11:53:00,755:INFO:Initializing load_model()
+2022-07-05 11:53:00,756:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 11:53:05,051:INFO:Initializing load_model()
+2022-07-05 11:53:05,052:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 11:53:05,096:INFO:Initializing predict_model()
+2022-07-05 11:53:05,097:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-05 11:53:05,100:INFO:Checking exceptions
+2022-07-05 11:53:05,100:INFO:Preloading libraries
+2022-07-05 11:53:18,142:INFO:Initializing load_model()
+2022-07-05 11:53:18,143:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 11:53:19,428:INFO:Initializing load_model()
+2022-07-05 11:53:19,429:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 11:53:19,470:INFO:Initializing predict_model()
+2022-07-05 11:53:19,470:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-05 11:53:19,472:INFO:Checking exceptions
+2022-07-05 11:53:19,473:INFO:Preloading libraries
+2022-07-05 12:15:18,686:INFO:Initializing load_model()
+2022-07-05 12:15:18,686:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 12:15:18,724:INFO:Initializing predict_model()
+2022-07-05 12:15:18,725:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-05 12:15:18,727:INFO:Checking exceptions
+2022-07-05 12:15:18,728:INFO:Preloading libraries
+2022-07-05 12:15:21,153:INFO:Initializing load_model()
+2022-07-05 12:15:21,154:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 12:15:21,194:INFO:Initializing predict_model()
+2022-07-05 12:15:21,195:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-05 12:15:21,198:INFO:Checking exceptions
+2022-07-05 12:15:21,198:INFO:Preloading libraries
+2022-07-05 12:15:24,727:INFO:Initializing load_model()
+2022-07-05 12:15:24,728:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 12:15:25,932:INFO:Initializing load_model()
+2022-07-05 12:15:25,933:INFO:load_model(model_name=salario_ds_best, platform=None, authentication=None, verbose=True)
+2022-07-05 12:15:25,969:INFO:Initializing predict_model()
+2022-07-05 12:15:25,970:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='salario')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='salario')),
+                ('fix_perfect', Remove_100(target='salario')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model', BayesianRidge()]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-07-05 12:15:25,972:INFO:Checking exceptions
+2022-07-05 12:15:25,973:INFO:Preloading libraries
